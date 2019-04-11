@@ -1,0 +1,14 @@
+﻿@model MVCDemo.Controllers.Customer
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>Customer Name: @Model.Name</p>
+<p>Customer Object Age: @Model.CreateDateTime</p>
+
+<p>@DateTime.Now</p>
+
+<cache expires-after="@TimeSpan.FromMinutes(1)">
+  <p>The cached time is @DateTime.Now</p>
+</cache>

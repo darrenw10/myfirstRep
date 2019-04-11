@@ -1,0 +1,28 @@
+﻿@model StateViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    QueryStringCount: @Model.QueryStringCount
+</p>
+<p>
+    FormCount: @Model.FormCount
+</p>
+<p>
+    SessionCount: @Model.SessionCount
+</p>
+<p>
+    CookieCount: @Model.CookieCount
+</p>
+
+<a asp-action="Index" asp-route-queryStringCount="@Model.QueryStringCount">Click</a>
+
+@*<form asp-action="Index">
+      <input asp-for="@Model.QueryStringCount" />
+        <input type="text" value="@Model.FormCount" />
+        <input type="submit" />
+    </form>*@
+

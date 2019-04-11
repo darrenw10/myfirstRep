@@ -1,0 +1,126 @@
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.deps.json
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.runtimeconfig.json
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.runtimeconfig.dev.json
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.pdb
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.Views.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csproj.CoreCompileInputs.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorAssemblyInfo.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorAssemblyInfo.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.AssemblyInfoInputs.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.AssemblyInfo.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.TagHelpers.input.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.TagHelpers.output.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorCoreGenerate.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.pdb
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csproj.CopyComplete
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Simple.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\SimpleWithModel.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Message.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SimpleLayout.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_InnerLayout.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Forum.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csprojAssemblyReference.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Products\Saved.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Customers\_Customers.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\State\Index.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Cache\Index.g.cshtml.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MovieDataSource.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\ApiConsumer\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.deps.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.runtimeconfig.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.runtimeconfig.dev.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.Views.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\bin\Debug\netcoreapp2.1\MovieDataSource.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csproj.CoreCompileInputs.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorAssemblyInfo.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorAssemblyInfo.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.AssemblyInfoInputs.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.AssemblyInfo.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.TagHelpers.input.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.TagHelpers.output.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorCoreGenerate.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\ApiConsumer\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Cache\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Customers\_Customers.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Forum.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Message.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Simple.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\SimpleWithModel.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Products\Saved.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_InnerLayout.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SimpleLayout.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\State\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorTargetAssemblyInfo.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorTargetAssemblyInfo.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csproj.CopyComplete
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csprojAssemblyReference.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.deps.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.runtimeconfig.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.runtimeconfig.dev.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.Views.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\bin\Debug\netcoreapp2.1\MovieDataSource.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csprojAssemblyReference.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csproj.CoreCompileInputs.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorAssemblyInfo.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorAssemblyInfo.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.AssemblyInfoInputs.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.AssemblyInfo.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.TagHelpers.input.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.TagHelpers.output.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorCoreGenerate.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\ApiConsumer\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Cache\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Customers\_Customers.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Forum.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Message.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Simple.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\SimpleWithModel.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Products\Saved.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_InnerLayout.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SimpleLayout.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\State\Index.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorTargetAssemblyInfo.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.RazorTargetAssemblyInfo.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.csproj.CopyComplete
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo - PreDashboardLab\MVCDemo\obj\Debug\netcoreapp2.1\MVCDemo.pdb

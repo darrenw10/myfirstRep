@@ -1,0 +1,14 @@
+﻿@{ 
+    this.Layout = "_SimpleLayout";
+}
+<table>
+    <tr>
+        <td style="background-color: aliceblue;">Menu</td>
+        <td>@RenderBody()</td>
+    </tr>
+</table>
+
+@section FooterMessage
+{
+    @RenderSection("FooterMessage", false)
+}

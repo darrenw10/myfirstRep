@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Simple Layout</title>
+</head>
+<body>
+    <h1>Simple Layout Heading</h1>
+
+    @RenderBody()
+
+    <hr />
+    <b>Simple Layout Footer</b>
+    <div>
+        @RenderSection("FooterMessage", false)
+    </div>
+</body>
+</html>

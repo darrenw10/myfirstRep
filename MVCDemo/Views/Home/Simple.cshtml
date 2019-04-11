@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "Simple";
+    Layout = "_InnerLayout";
+}
+
+<h2>Simple</h2>
+@{
+    var table = 9;
+}
+
+@*<!-- This is @table a comment -->
+
+    <p>This is the @table times table</p>*@
+
+<ul>
+    @for (int multiplier = 1; multiplier <= 12; multiplier++)
+    {
+        <li>@multiplier x @table = @(multiplier * table)</li>
+    }
+</ul>
+
+<p>
+    @for (int index = 0; index < 10; index++)
+    {
+        @index
+    }
+</p>
+
+<a class="btn btn-danger" href="/Home/Message?messageTitle=Deleted&messageBody=The+record+has+been+deleted">Delete</a>
+
+<br />
+
+@Html.ActionLink("Delete", "Message", new { MessageTitle="Deleted 2", MessageBody="Delete <b>record</b> message 2" }, new { @class = "btn btn-danger" })
+
+<br />
+
+<a class="btn btn-danger" asp-action="Message" asp-route-messageTitle="Deleted 3" asp-route-messageBody="Delete message 3">Delete</a>
+
+<img src="" asp-append-version="true"/>
+
+
+@{ 
+    var message = "<b>Display this message!<b>";
+}
+<p>
+    @message
+</p>
+
+
+
+@section FooterMessage {
+<span style="color:orangered">Simple Message</span> 
+}

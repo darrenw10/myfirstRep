@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Message";
+}
+
+<h2>@ViewData["MessageTitle"]</h2>
+
+<div class="alert alert-info">
+    @Html.Raw(ViewData["MessageBody"])
+</div>
+

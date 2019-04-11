@@ -1,0 +1,39 @@
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.Views.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.deps.json
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.json
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.dev.json
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.pdb
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfoInputs.cache
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfo.cs
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CopyComplete
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.pdb
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\Users\Training\Documents\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.Views.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.Views.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.deps.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.dev.json
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MovieDataSource.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\bin\Debug\netcoreapp2.1\MVCDemo.pdb
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csprojAssemblyReference.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfoInputs.cache
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfo.cs
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CopyComplete
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\ASP NET Core\JF Mimic\JF Mimic\MVCDemo\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.pdb

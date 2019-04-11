@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Forum";
+}
+
+<h2>Forum</h2>
+
+<p>
+    Please enter your message below<br />
+
+    <form asp-action="Forum">
+        <textarea name="Message" rows="10" style="width: 100%"></textarea><br />
+        <input type="submit" value="Send" />
+    </form>
+</p>
+
+<hr />
+
+<ul>
+    <li>@Html.Raw(ViewData["Message"])</li>
+</ul>
